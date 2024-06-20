@@ -1,7 +1,7 @@
 # Responsive-resume
 
 > Sponsor me at-least 1$ for more open source projects
-> https://akashvishwakarma.netlify.app/
+> https://akashxcv.netlify.app/
 
 # My Resume thumbnail:
 
